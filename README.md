@@ -46,8 +46,6 @@ This project is built with a **modular, scalable architecture** using FastAPI an
 * Export results as:
 
   * PDF
-  * Markdown
-  * Text files
 
 ### 🌙 Modern UI
 
@@ -260,7 +258,7 @@ GET /export/markdown
 
 ## 👨‍💻 Author
 
-**Rizwan**
+**Mohammed Rizwan S**
 Computer Science Engineering Student
 AI & Cloud Enthusiast
 
